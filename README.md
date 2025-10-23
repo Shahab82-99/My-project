@@ -13,6 +13,6 @@ Here I share my analysis, dashboards, and case studies built using **Excel, SQL,
 ***Outcome**:* Improved data visibility by 30%
 -   
   🔗 [View Dashboard]
-  (https://drive.google.com/https://drive.google.com/drive/folders/1wwL1qBYkny0ssroOKn1srPFlN1rseKUQ?usp=drive_link)
+  (https://drive.google.com/drive/folders/1wwL1qBYkny0ssroOKn1srPFlN1rseKUQ?usp=drive_link)
 
   ---

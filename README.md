@@ -14,6 +14,7 @@ General Note for Viewers:
 - Designed an interactive dashboard to monitor revenue, expenses, and profit trends.
 - Automated financial KPIs using DAX and visualized monthly and yearly comparisons.
 - Integrated data from multiple sources for consolidated financial reporting.
+  
 **Outcomes**:
 - Improved financial visibility and reporting accuracy by 25%.
 - Enabled management to make quick, data-driven budget decisions.

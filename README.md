@@ -1,4 +1,4 @@
-# 💼 Shahab Ahmad | Business / Data Analyst Portfolio
+# 💼 Shahab Ahmad | Business / Data Analyst Project Portfolio
 
 Welcome to my project portfolio!  
 Here I share my analysis, dashboards, and case studies built using **Excel, SQL, Power BI, Tableau.**
